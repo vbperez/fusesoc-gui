@@ -1,3 +1,6 @@
+
+# sudo apt-get install python-matplotlib
+
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
